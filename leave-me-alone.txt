@@ -6,9 +6,11 @@
 ! Last modified:
 ! Version: 1.0.0
 
+community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none > .carousel-fade.slide.carousel
 duckduckgo.com##.footer
 duckduckgo.com##.header__label.showcase.header--aside__item
 duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.js-header-aside-item-social.social.header__label.header--aside__social.header--aside__item > .js-hl-button.header__clickable
 duckduckgo.com##.js-text-promo.header--text_promo.text_promo
 duckduckgo.com##.social.header__label.header--aside__social.header--aside__item
 duckduckgo.com##.tag-home__item
@@ -45,3 +47,7 @@ www.vg.no##.is-paywalled
 www.vg.no###hovedlopet > .articles > .finn-blink-loaded.container
 www.vg.no##a[href*="kjop-vgpluss"]
 www.vg.no##div.defer-render > .articles > .finn-blink-loaded.container
+www.w3schools.com##.gt-btn-top-cert.ws-hover-pink.ws-pink.barex.w3-hide-small.ws-hide-900.w3-right.w3-button.w3-bar-item
+www.w3schools.com##.gt-btn-top-pro.topnavmain_pro.barex.ws-hide-1160.w3-hide-small.ws-hide-900.w3-hover-dark-grey.w3-right.w3-button.w3-bar-item
+www.w3schools.com##.gt-btn-top-spaces.ws-hover-yellow.ws-yellow.barex.w3-hide-small.ws-hide-1066.w3-right.w3-button.w3-bar-item
+www.w3schools.com##.m12.l2.w3-col
