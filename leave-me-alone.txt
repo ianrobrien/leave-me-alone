@@ -1,0 +1,47 @@
+! Title: Leave Me Alone
+! Expires: 1 day (update frequency)
+! Description: Personal filter collection
+! Homepage: https://github.com/ianrobrien/leave-me-alone
+! License: Apache License 2.0; https://github.com/ianrobrien/leave-me-alone/blob/main/LICENSE
+! Last modified:
+! Version: 1.0.0
+
+duckduckgo.com##.footer
+duckduckgo.com##.header__label.showcase.header--aside__item
+duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.js-text-promo.header--text_promo.text_promo
+duckduckgo.com##.social.header__label.header--aside__social.header--aside__item
+duckduckgo.com##.tag-home__item
+github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions > li > details[id*="funding"]
+github.com##.mt-3.flex-self-start > .btn
+github.com###funding-links-modal > .btn-sm.btn
+github.com##a[id*="sponsor"]
+mail.protonmail.com##li.flex-item-noshrink.topnav-listItem:nth-of-type(1)
+opencritic.com##app-patreon-modal
+secure01b.chase.com##.mds-tile--cpo.unified-financial
+secure01b.chase.com##div[class*="-ad"]
+secure01b.chase.com##li[id*=-ad-]
+secure01b.chase.com##mds-tile[id*="offers"]
+secure06ea.chase.com##.mds-tile--cpo.chaseTravelTile
+secure06ea.chase.com##.mds-tile--cpo.unified-financial
+secure06ea.chase.com###accountSummaryContainer > .clearfix.cxo-ovd-summary-ad
+secure06ea.chase.com###W16 > .mds-tile--cpo
+secure06ea.chase.com###W7 > div > .mds-tile--cpo
+unsplash.com###app > div > div > div > div.M5vdR.U8eXG.bYpwS.rJ2xz > .kG7WW > .vNWg5
+unsplash.com##img[srcset^="https://plus.unsplash.com"]:upward(figure):remove()
+www.dagbladet.no##[src*="dagbladet-pluss"]
+www.dagbladet.no##a[href="https://www.dagbladet.no/kjop-pluss"]
+www.dagbladet.no##article[data-label*="pluss"]
+www.namecheap.com##.gb-stand-with-ukraine-banner
+www.namecheap.com##a.gb-btn--link.gb-btn.gb-input-group__item > .new-promo.gb-badge--new-item.gb-badge
+www.namecheap.com##a.gb-btn--link.gb-btn.gb-input-group__item > .tryme-badge.gb-badge--info.gb-badge--new-item.gb-badge
+www.nytimes.com##a[class*="nytcp-opt"]
+www.power.no##.notification-product-page
+www.strava.com##.upgrade.nav-item[class$="upgrade"]
+www.strava.com###ride-goals > .js-view > div.card-body > .upsell.media.js-snw-goals-upsell
+www.strava.com##reach-portal
+www.sweetwater.com##.hide-visual.site-contact-preview__mini
+www.vg.no##.is-paywalled
+www.vg.no###hovedlopet > .articles > .finn-blink-loaded.container
+www.vg.no##a[href*="kjop-vgpluss"]
+www.vg.no##div.defer-render > .articles > .finn-blink-loaded.container
