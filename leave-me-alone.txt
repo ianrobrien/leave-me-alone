@@ -18,6 +18,7 @@ github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions > li > details[id
 github.com##.mt-3.flex-self-start > .btn
 github.com###funding-links-modal > .btn-sm.btn
 github.com##a[id*="sponsor"]
+mail.proton.me##.flex-align-items-center.flex-nowrap.inline-flex.topnav-link.button-solid-norm.button
 mail.protonmail.com##li.flex-item-noshrink.topnav-listItem:nth-of-type(1)
 opencritic.com##app-patreon-modal
 secure01b.chase.com##.mds-tile--cpo.unified-financial
